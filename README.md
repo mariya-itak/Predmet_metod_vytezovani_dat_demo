@@ -1,0 +1,1 @@
+# Predmet_metod_vytezovani_dat_demo
