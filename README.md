@@ -1,1 +1,1 @@
-# Predmet_metod_vytezovani_dat_demo
+Předmět, studovaný běhěm studia na specializaci Informační technologie. obor Umělá inteligence. Předmět obsahoval taková témata jako např. Vizualizace dat, Shlukování dat, BERT model, Detekce anomálií.
